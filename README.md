@@ -1,5 +1,5 @@
 # License-Plate-Detection
-<h1><big>how to detect license plates using Python & we will download & use some Python libraries like OpenCV, Pytesseract & Imutils.</big></h1>h1>
+This is a implementation on how to detect license plates using Python & we will download & use some Python libraries like OpenCV, Pytesseract & Imutils.
 <hr>
 Download Tesseract-OCR 64bit from here: https://digi.bib.uni-mannheim.de/tess...
 
